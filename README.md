@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Alessio Ricardo</h1>
-<h3 align="center">Analista de Dados  | SQL • Power BI • ETL</h3>
+<h3 align="center">Analista de Dados | SQL • Power BI • ETL • Python (básico)</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🎓 Estudante focado em **Análise de Dados**  
 - 📊 Experiência prática em projetos com **SQL Server, Power BI e ETL**  
 - 💡 Apaixonado por transformar dados em **insights visuais e estratégicos**  
-- 🌱 Atualmente estudando **SQL Avançado e Modelagem de Dados**  
+- 🌱 Atualmente estudando **SQL Avançado, Modelagem de Dados e Python aplicado à análise**  
 
 ---
 
@@ -21,6 +21,7 @@
 - **Banco de Dados:** SQL Server | MySQL | PostgreSQL  
 - **Visualização:** Power BI  
 - **Transformação de Dados:** Power Query | ETL  
+- **Linguagens:** Python (básico, voltado para análise de dados)  
 - **Outros:** Excel | GitHub  
 
 <p align="left"> 
@@ -36,6 +37,9 @@
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/> 
   </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
 </p>
 
 ---
@@ -46,6 +50,4 @@
 - 📷 [Instagram](https://instagram.com/alessiorls_)  
 
 ---
-
-
 
