@@ -13,7 +13,8 @@
 
 ## 🏆 Projetos em Destaque
 - [**Projeto Ítalo Ferreira**](https://github.com/AlessioCrf/projeto-italo-ferreira) → Limpeza e padronização de dados em SQL + Dashboard no Power BI  
-- [**Projeto Ítalo Ferreira - SQL**](https://github.com/AlessioCrf/projeto-italo-ferreira-sql) → Scripts de ETL e consultas SQL utilizadas no projeto  
+- [**Projeto Ítalo Ferreira - SQL**](https://github.com/AlessioCrf/projeto-italo-ferreira-sql) → Scripts de ETL e consultas SQL utilizadas no projeto
+- [**Projeto_NIke**](https://github.com/AlessioCrf/projeto-nike-sql-powerbi) → Apresentação dos dados brutos que tirei do Kaggle, toda a parte de SQL e uma visao geral do projeto 
 
 ---
 
